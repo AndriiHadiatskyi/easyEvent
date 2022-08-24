@@ -29,6 +29,7 @@ SECRET_KEY = 'django-insecure-lq=o1h+4u65**h9g)q%9bpe&b#g6jvk86r%!$21h)4k^2d9$3&
 DEBUG = True
 
 ALLOWED_HOSTS = ['https://easy-event-django.herokuapp.com/',
+                 '127.0.0.1',
                  ]
 
 
